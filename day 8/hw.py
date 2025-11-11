@@ -109,7 +109,7 @@ else:
 
 
 username = input("შეიყვანეთ მომხმარებლის სახელი: ")
-passowrd = input("შეიყვანეთ პაროლი: ")
+password = input("შეიყვანეთ პაროლი: ")
 if username == "admin" and password == "superSecretPassword":
      print("მოგესალმები, ადმინ!")
 elif username == "guest" and password == "1234":
